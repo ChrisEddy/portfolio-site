@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Chris Eddy",
+  "name": "Chris Eddy Portfolio Website",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "scorpio.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "scorpio256.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "256x256"
     },
     {
-      "src": "logo512.png",
+      "src": "scorpio512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
